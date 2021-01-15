@@ -1,0 +1,50 @@
+body{
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+
+.panda-card{
+    border: 0;
+    background-color: beige;
+
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.formal{
+    border: 0;
+}
+.formal-footer{
+    border: 0;
+}
+.fit{
+    border: 0;
+    background-color: whitesmoke;
+}
+.price{
+    color: coral;
+    
+}
+.batom{
+    border-radius: 10px;
+    width:150px;
+}
+.writing{
+    color: chocolate;
+}
+.text-center{
+    color: blue;
+}.top{
+    width: 30%;
+    float: right;
+    margin-right: 2%;
+    padding-right: 10%;
+    padding-top: 10%;
+
+}
+.top img{
+width: 70%;
+float: left;
+}
+
