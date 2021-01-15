@@ -26,9 +26,13 @@ body{
     color: coral;
     
 }
-.batom{
-    border-radius: 10px;
-    width:150px;
+.btn.header__button{
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-size: large;
 }
 .writing{
     color: chocolate;
@@ -46,5 +50,8 @@ body{
 .top img{
 width: 70%;
 float: left;
+}
+.fa.custom__cart{
+    margin-right: 8px;
 }
 
